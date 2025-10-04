@@ -1,0 +1,8 @@
+{
+  "python-envs.pythonProjects": [],
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "python.defaultInterpreterPath": "/Users/danieldihardja/dev/AI-Products/menuyukti/v3/backend/.venv/bin/python",
+  "python.analysis.extraPaths": [
+    "api" // tells Pylance where to look for `loader/`
+  ]
+}
